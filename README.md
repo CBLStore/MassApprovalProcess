@@ -37,3 +37,5 @@ can be seamlessly integrated into various parts of the Salesforce interface. Thi
 
 ## Screenshot
 
+![image](https://github.com/CBLStore/MassApprovalProcess/assets/144254863/478b4a0f-d100-4daf-a5f8-b82ed5dd3298)
+
